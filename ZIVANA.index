@@ -1,0 +1,66 @@
+<html>
+<head></head>
+<body>
+<table border="1" bordercolor="#f6e88b">
+ <tr  bgcolor="#d9f116" textcolor="white">
+	<th colspan="4" >BIODATA SISWA</font> 
+ </tr>
+ <tr bgcolor="#ecf1c5">
+	<td rowspan="6"><img src="C:\Users\LENOVO\Downloads\me.jpg" width="110" height="170"></td>
+	<td >Nama</td>
+	<td>:</td>
+	<td>Zivana Azahra</td>
+ </tr>
+ <tr bgcolor="#ecf1c5">
+	<td>Kelas</td>
+	<td>:</td>
+	<td>9D</td>
+ </tr>
+ <tr bgcolor="#ecf1c5">
+	<td>No. Absen</td>
+	<td>:</td>
+	<td>36</td>
+ </tr>
+ <tr bgcolor="#ecf1c5">
+	<td>T. T. L</td>
+	<td>:</td>
+	<td> Kuningan, 10-September-2009</td>
+ </tr>
+ <tr bgcolor="#ecf1c5">
+	<td>Email</td>
+	<td>:</td>	
+	<td>zivanazahra10@gmail.com</td>
+ </tr>
+ <tr bgcolor="#ecf1c5">
+	<td>Hobi</td>
+	<td>:</td>
+	<td>Mendengarkan lagu</td>
+ </tr>
+ <tr bgcolor="#e85b5b">
+	<th colspan="4">KRITIK & SARAN</th>
+ <tr bgcolor="#ffb5b2">
+	<td>1.</td>
+	<td>Nama</td>
+	<td>:</td>
+	<td><input type="text" id="idnama" name="Nama"></td>
+ </tr>
+ <tr bgcolor="#ffb5b2">
+	<td>2.</td>
+	<td>Email</td>
+	<td>:</td>
+	<td><input type="text" id="idemail" name="email"></td>
+ </tr>
+ <tr bgcolor="#ffb5b2">
+	<td>3.</td>
+	<td>pesan</td>
+	<td>:</td>
+	<td><input type="text" id="idpesan" name="pesan"></td>
+ </tr>
+ <tr bgcolor="#ffb5b2">
+	<td colspan="2"></td>
+	<td>:</td>
+	<td><input type="submit" value="Kirim"></td>
+ </tr>
+</table>
+</body>
+</html>
